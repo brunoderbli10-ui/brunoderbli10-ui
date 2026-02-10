@@ -1,6 +1,7 @@
 <h1 align="center">Olá! Sejam bem vindos ao meu GitHub!</h1>
 
 ###
+<p> Me Chamo Bruno Derbli, estou cursando Desenolvimento de sistemas. <br> Tenho foco na área de Front-End e Back-End.</p>
 
 ###
 
