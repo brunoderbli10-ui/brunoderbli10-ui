@@ -2,9 +2,9 @@
 
 ###
 <p> Olá, me chamo Bruno Derbli, estou cursando Desenvolvimento de Sistemas.
-- Gosto de tirar fotos e caminhar;
-- Gosto de programar com Python e JavaScript;
-- Quero melhorar minhas habilidades de programação.
+<li> <ol>Gosto de tirar fotos e caminhar;</ol>
+<ol>Gosto de programar com Python e JavaScript;</ol>
+<ol> Quero melhorar minhas habilidades de programação.</ol></li>
 </p>
 
 ###
